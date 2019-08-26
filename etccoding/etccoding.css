@@ -1,0 +1,60 @@
+h2{
+ color: green;
+ font-size: 20px;
+ font-family: Arial, Helvetica, sans-serif;
+ text-align: left;
+ text-decoration: line-through;
+}
+
+h1{ 
+    color: red;
+    text-align: center
+}
+
+
+p{ 
+    color: aqua;
+}
+
+h3{
+    color: blueviolet;
+    text-align: right;
+    text-decoration: none;
+}
+
+.first{
+    font-weight: bold;
+}
+.done{
+    text-decoration: line-through;  
+}
+
+.third{
+    color:orange;
+}
+
+#html{
+    font-weight: bold;
+}
+
+a{
+ text-decoration: none;
+ text-transform:uppercase;
+}
+#heading{
+    text-shadow: 3px 2px royalblue;
+    color: rgb(red, green, blue);
+}
+
+.mydiv{
+    background-color: blue;
+    width:50%;
+    height: 50%;
+    display: inline-block;
+}
+.div2{
+    background-color: brown;
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+}

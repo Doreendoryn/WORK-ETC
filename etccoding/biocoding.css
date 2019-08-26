@@ -1,0 +1,46 @@
+body{
+    background-color: grey;
+
+}
+h1{
+    background-color: grey;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    text-align: center;
+}
+
+h2{
+    color: gray;
+    font-weight: 100;
+    text-align: left;
+}
+
+h3{
+    background-color: aliceblue;
+    color: orangered;
+    font-size: large;
+    text-align: center;
+}
+
+p{
+    color: black;
+}
+
+.first{
+    text-decoration: line-through;
+}
+.done{
+    text-decoration: line-through;
+}
+.third{
+    text-decoration: none;
+}
+
+.circle{
+    border-radius: 8px;
+
+
+}
+    
+
